@@ -10,7 +10,7 @@ npm install request
 
 npm install chalk
 
-node turboreccce.js <url>
+node turboreccce.js<url>
 
 avoid adding a '/' at the end of the url
 
