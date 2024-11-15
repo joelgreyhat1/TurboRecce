@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "request": "^2.88.2"
+  },
+  "name": "turborecce",
+  "version": "1.0.0",
+  "description": "a fast port scanner",
+  "main": "turborecce.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/joelgreyhat1/TurboRecce.git"
+  },
+  "keywords": [
+    "turborecce"
+  ],
+  "author": "joel greyhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joelgreyhat1/TurboRecce/issues"
+  },
+  "homepage": "https://github.com/joelgreyhat1/TurboRecce#readme"
+}
